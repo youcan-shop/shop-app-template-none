@@ -1,0 +1,17 @@
+{
+  "name": "shop-app-template-none",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "youcan": "youcan",
+    "dev": "youcan app dev",
+    "generate": "youcan app generate"
+  },
+  "keywords": [],
+  "author": "YouCan",
+  "dependencies": {
+    "@youcan/app": "latest",
+    "@youcan/cli": "latest"
+  }
+}
